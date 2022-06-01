@@ -1,0 +1,25 @@
+h1{ 
+        text-align: center;
+        font-weight: 700;
+        line-height: 29.64px;
+font-size: 35px;}
+
+h3{font-size: 28 px;
+        font-weight: 700;
+        line-height: 84.69%;
+}
+
+header{background-color: RGBA(230,230,230,1)}
+
+.titulo{background-color: RGBA(128,128,128,0.3);
+        font-family: 'Times New Roman';
+        color:rgba(0,86, 119, 1);
+}
+
+.imagen{text-align: center;}
+
+footer{background-color: #005677;
+text-align: center;
+color:white}
+
+.sangria {text-indent: 5%;}
